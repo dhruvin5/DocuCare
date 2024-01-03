@@ -14,7 +14,7 @@ Once developed, this patient-tracking application aims to alleviate these issues
 ### Tech Stack
 
 - Java SpringBoot (Backend)
-- React (Frontend)
+- Angular (Frontend)
 - Postgres RDMS (Data Storage)
 - Amazon S3 (Cloud File Storage)
 
